@@ -15,12 +15,18 @@ Reset button → Blue
 A message “Minimum limit reached” is displayed when the counter is 0.
 
 Project Structure
+public/
+  index.html
 src/
   index.js      # React entry point
   counter.js    # Counter component
   style.css     # CSS styling 
+.gitignore
+README.md
+package-lock.json
+package.json
 
-  Live Demo
-  counter-application-react-nine.vercel.app
+Live Demo
+[counter-application-react-nine.vercel.app]
 
   
